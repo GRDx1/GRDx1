@@ -2,7 +2,7 @@
 
 ### Olá! Eu me chamo Gustavo Ribeiro. 👋
 
-- 🔭 Atualmente cursando no Gestão Ambiental - Campus Açailândia - Universidade Estadual da Região Tocantina do Maranhão - 7º Periodo  
+- 🔭 Atualmente cursando Tecnologia em Gestão Ambiental - Campus Açailândia - Universidade Estadual da Região Tocantina do Maranhão - 7º Periodo  
 - 🌱 Aprendendo trabalhar com front-end
  
 <div> 
